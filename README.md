@@ -13,5 +13,6 @@ Would be moved to [The branch in the Beginning-of-Codes: DS-related/tools-in-big
 
 ## Optional
 [Data Manipulation with pandas](https://campus.datacamp.com/courses/data-manipulation-with-pandas)   
+The PDF would be move to [BasicPandas](https://github.com/HeathersCodes/DS-related/tree/main/BasicPandas)
 Pretty easy but tedious. Good way to review the skill of **grouping and aggregating data by stat method**, **sorting**, **(indexing(and set index, reset even drop the index) and subsetting) by bool condition or method (.iloc .loc)**, **visualizing**, **read and save to csv file in Pandas**...   
-Related codes Would be moved to [The branch in the Beginning-of-Codes: DS-related/PandasBasic.py](https://github.com/HeathersCodes/Beginning-of-Codes/tree/DS-related/PandasBasic)
+Related codes Would be moved to [The branch in the Beginning-of-Codes: DS-related/PandasBasic](https://github.com/HeathersCodes/Beginning-of-Codes/tree/DS-related/PandasBasic)
