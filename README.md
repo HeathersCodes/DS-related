@@ -9,7 +9,7 @@ Would be moved to [The branch in the Beginning-of-Codes: DS-related/SQL](https:/
 Cloud-based parallel computing with Google Cloud Platform.  
 Would be moved to [The branch in the Beginning-of-Codes: DS-related/tools-in-big-data](https://github.com/HeathersCodes/Beginning-of-Codes/tree/DS-related/tools-in-big-data)
 ### Feb 20
-[Fist Two Chapters of Intro to Pyspark](https://campus.datacamp.com/courses/introduction-to-pyspark/getting-to-know-pyspark).   
+[Intro to Pyspark (First Two Chapters done, other two are optional)](https://campus.datacamp.com/courses/introduction-to-pyspark/getting-to-know-pyspark).   
 [Pyspark SQL](https://campus.datacamp.com/courses/introduction-to-spark-sql-in-python/pyspark-sql).   
 
 
