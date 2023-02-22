@@ -8,6 +8,17 @@ Would be moved to [The branch in the Beginning-of-Codes: DS-related/SQL](https:/
 ## Pyspark/Hadoop/Hive
 Cloud-based parallel computing with Google Cloud Platform.  
 Would be moved to [The branch in the Beginning-of-Codes: DS-related/tools-in-big-data](https://github.com/HeathersCodes/Beginning-of-Codes/tree/DS-related/tools-in-big-data)
+### Feb 19
+[Intro to Pyspark (First Two Chapters done, other two are optional)](https://campus.datacamp.com/courses/introduction-to-pyspark/getting-to-know-pyspark).   
+[Pyspark SQL](https://campus.datacamp.com/courses/introduction-to-spark-sql-in-python/pyspark-sql).   
+
+
+### Feb 21
+[Cleaning Data with Pyspark](https://campus.datacamp.com/courses/cleaning-data-with-pyspark/dataframe-details).   
+A little bit tricky for beginner.
+
+## Estimated Feb 25
+
 ## ML
 [Crossover](https://github.com/HeathersCodes/Stat-in-Finance)
 
